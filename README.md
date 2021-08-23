@@ -28,11 +28,11 @@ Provide a JSON config (config.JSON) with the following:
 {
   "UserCulture": "en-AU", //Your culture, 
   "ModelPrefix": "MOD", //Your model
-  "PrimaryFile": "K:\AosService\...\LabelResources\en-AU\MOD.en-AU.label.txt", //Primary file where the lookups will happen
+  "PrimaryFile": "K:\\AosService\\...\\LabelResources\\en-AU\\MOD.en-AU.label.txt", //Primary file where the lookups will happen
   "LabelFiles":  //List all our files that the label will be created in
   [
-    "K:\AosService\...\LabelResources\en-US\MOD.en-US.label.txt",
-    "K:\AosService\...\LabelResources\en-AU\MOD.en-AU.label.txt"
+    "K:\\AosService\\...\\LabelResources\\en-US\\MOD.en-US.label.txt",
+    "K:\\AosService\\...\\LabelResources\\en-AU\\MOD.en-AU.label.txt"
   ]
 }
 ```
