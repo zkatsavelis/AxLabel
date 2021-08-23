@@ -1,0 +1,9 @@
+{
+  "UserCulture": "en-AU",
+  "ModelPrefix": "MOD",
+  "PrimaryFile": "/usr/repos/D365/AxLabel/AxLabelFile/LabelResources/en-AU/MOD.en-AU.label.txt",
+  "LabelFiles": [
+    "/usr/repos/D365/AxLabel/AxLabelFile/LabelResources/en-US/MOD.en-US.label.txt",
+    "/usr/repos/D365/AxLabel/AxLabelFile/LabelResources/en-AU/MOD.en-AU.label.txt"
+  ]
+}
